@@ -1,0 +1,11 @@
+.Movieform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputMovies {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
